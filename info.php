@@ -1,2 +1,2 @@
 
-<?php  echo "jjjjttttttttt how to update a new file";?>
+<?php  echo "How to update a new file";?>
